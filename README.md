@@ -10,6 +10,8 @@ https://turbofuture.com/computers/How-to-install-Apache-tomcat-in-Spring-Tool-Su
 
 In this Project I have created two REST API : 1)Payment 2)Login.
 
+Right Click on Project and run on Tomcat server. Now you can access these api's using http://localhost:8080/SimpleRestAPI/
+
 Kindly go through all packages and get basic understanding about Spring Framework.
 
 For step-by-step creation and execuation of project kindly follow:
