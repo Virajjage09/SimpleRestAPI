@@ -12,9 +12,9 @@ In this Project I have created two REST API : 1)Payment 2)Login.
 
 Right Click on Project and run on Tomcat server. Now you can access these api's using http://localhost:8080/SimpleRestAPI/
 
-![alt text](https://github.com/Virajjage09/SimpleRestAPI/payment api.jpg?raw=true)
+![alt text](https://github.com/Virajjage09/SimpleRestAPI/payment api.png?raw=true)
 
-![alt text](https://github.com/Virajjage09/SimpleRestAPI/login api.jpg?raw=true)
+![alt text](https://github.com/Virajjage09/SimpleRestAPI/login api.png?raw=true)
 
 Kindly go through all packages and get basic understanding about Spring Framework.
 
